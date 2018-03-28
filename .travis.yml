@@ -1,0 +1,6 @@
+os: linux
+jobs:
+  include:
+  - stage: Check
+    script:
+    - ./tools/check_signed_off.sh
