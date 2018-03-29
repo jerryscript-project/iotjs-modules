@@ -1,0 +1,3 @@
+[submodule "iotjs-url-module"]
+	path = iotjs-url-module
+	url = https://github.com/pmarkee/iotjs-url-module
