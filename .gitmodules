@@ -10,3 +10,8 @@
 	path = sleep
 	url = https://github.com/hs0225/my_modules.git
 	branch = sleep
+
+[submodule "sht1x"]
+	path = sht1x
+	url = https://github.com/hs0225/my_modules.git
+	branch = sht1x
