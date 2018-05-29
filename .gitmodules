@@ -5,3 +5,8 @@
 [submodule "smart-things"]
 	path = smart-things
 	url = https://github.com/hs0225/smart-things.git
+
+[submodule "sleep"]
+	path = sleep
+	url = https://github.com/hs0225/my_modules.git
+	branch = sleep
