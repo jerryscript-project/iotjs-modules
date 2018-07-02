@@ -9,9 +9,9 @@
 	path = sht1x
 	url = https://github.com/hs0225/my_modules.git
 	branch = sht1x
-[submodule "smarthings-c2c"]
-	path = smarthings-c2c
-	url = https://github.com/daeyeon/smartthings.git
 [submodule "smartthings-d2c"]
 	path = smartthings-d2c
 	url = https://github.com/hs0225/smart-things.git
+[submodule "smartthings-c2c"]
+	path = smartthings-c2c
+	url = https://github.com/daeyeon/smartthings.git
