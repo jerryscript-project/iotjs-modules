@@ -1,16 +1,10 @@
 [submodule "iotjs-url-module"]
 	path = iotjs-url-module
 	url = https://github.com/pmarkee/iotjs-url-module
-
-[submodule "smart-things"]
-	path = smart-things
-	url = https://github.com/hs0225/smart-things.git
-
 [submodule "sleep"]
 	path = sleep
 	url = https://github.com/hs0225/my_modules.git
 	branch = sleep
-
 [submodule "sht1x"]
 	path = sht1x
 	url = https://github.com/hs0225/my_modules.git
@@ -18,3 +12,6 @@
 [submodule "smarthings-c2c"]
 	path = smarthings-c2c
 	url = https://github.com/daeyeon/smartthings.git
+[submodule "smartthings-d2c"]
+	path = smartthings-d2c
+	url = https://github.com/hs0225/smart-things.git
