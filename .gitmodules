@@ -15,3 +15,6 @@
 [submodule "smartthings-c2c"]
 	path = smartthings-c2c
 	url = https://github.com/daeyeon/smartthings.git
+[submodule "iotjs-async"]
+	path = iotjs-async
+	url = https://github.com/rzr/iotjs-async.git
