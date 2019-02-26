@@ -18,3 +18,6 @@
 [submodule "iotjs-async"]
 	path = iotjs-async
 	url = https://github.com/rzr/iotjs-async.git
+[submodule "iotjs-express"]
+	path = iotjs-express
+	url = https://github.com/SamsungInternet/iotjs-express
