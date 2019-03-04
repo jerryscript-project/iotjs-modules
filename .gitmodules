@@ -21,3 +21,6 @@
 [submodule "iotjs-express"]
 	path = iotjs-express
 	url = https://github.com/SamsungInternet/iotjs-express
+[submodule "color-sensor-js"]
+	path = color-sensor-js
+	url = https://github.com/SamsungInternet/color-sensor-js
