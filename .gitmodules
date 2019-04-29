@@ -24,3 +24,6 @@
 [submodule "color-sensor-js"]
 	path = color-sensor-js
 	url = https://github.com/SamsungInternet/color-sensor-js
+[submodule "mastodon-lite"]
+	path = mastodon-lite
+	url = https://github.com/rzr/mastodon-lite
