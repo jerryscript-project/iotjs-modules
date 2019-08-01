@@ -27,3 +27,6 @@
 [submodule "mastodon-lite"]
 	path = mastodon-lite
 	url = https://github.com/rzr/mastodon-lite
+[submodule "webthing-iotjs"]
+	path = webthing-iotjs
+	url = https://github.com/rzr/webthing-iotjs
