@@ -33,3 +33,6 @@
 [submodule "generic-sensors-lite"]
 	path = generic-sensors-lite
 	url = https://github.com/rzr/generic-sensors-lite
+[submodule "twins"]
+	path = twins
+	url = https://github.com/rzr/twins
