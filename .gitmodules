@@ -30,3 +30,6 @@
 [submodule "webthing-iotjs"]
 	path = webthing-iotjs
 	url = https://github.com/rzr/webthing-iotjs
+[submodule "generic-sensors-lite"]
+	path = generic-sensors-lite
+	url = https://github.com/rzr/generic-sensors-lite
